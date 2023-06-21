@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PijwW8CUKoLh0L4/8dZ0phSur0UcLZFT8k3SDb+AuwKa9WdwOvuJiPt2EwrgBf0Ps/NgVbq/PktdGS7ybl77nw==",
+  "dgSpecHash": "mkFPv54KJkz+afE77NJMQsqWtXjRp/zSiwST0sUZXu0SnhAX6sUiqMHdy2r182j0hDXVsctnA2z+reNFNnWi0w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\stalexa\\OneDrive - SoftServe, Inc\\Desktop\\Homework Stefania Alexandru\\TestProject1\\TestProject1.csproj",
+  "projectFilePath": "C:\\Users\\stalexa\\OneDrive - SoftServe, Inc\\Desktop\\cloned repo\\Homework-Stefania-Alexandru\\TestProject1\\TestProject1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\stalexa\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\stalexa\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",

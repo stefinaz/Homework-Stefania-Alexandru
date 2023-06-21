@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\stalexa\\OneDrive - SoftServe, Inc\\Desktop\\Homework Stefania Alexandru\\Homework StefaniaAlexandru\\Homework StefaniaAlexandru.csproj": {}
+    "C:\\Users\\stalexa\\OneDrive - SoftServe, Inc\\Desktop\\cloned repo\\Homework-Stefania-Alexandru\\Homework StefaniaAlexandru\\Homework StefaniaAlexandru.csproj": {}
   },
   "projects": {
-    "C:\\Users\\stalexa\\OneDrive - SoftServe, Inc\\Desktop\\Homework Stefania Alexandru\\Homework StefaniaAlexandru\\Homework StefaniaAlexandru.csproj": {
+    "C:\\Users\\stalexa\\OneDrive - SoftServe, Inc\\Desktop\\cloned repo\\Homework-Stefania-Alexandru\\Homework StefaniaAlexandru\\Homework StefaniaAlexandru.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stalexa\\OneDrive - SoftServe, Inc\\Desktop\\Homework Stefania Alexandru\\Homework StefaniaAlexandru\\Homework StefaniaAlexandru.csproj",
+        "projectUniqueName": "C:\\Users\\stalexa\\OneDrive - SoftServe, Inc\\Desktop\\cloned repo\\Homework-Stefania-Alexandru\\Homework StefaniaAlexandru\\Homework StefaniaAlexandru.csproj",
         "projectName": "Homework StefaniaAlexandru",
-        "projectPath": "C:\\Users\\stalexa\\OneDrive - SoftServe, Inc\\Desktop\\Homework Stefania Alexandru\\Homework StefaniaAlexandru\\Homework StefaniaAlexandru.csproj",
+        "projectPath": "C:\\Users\\stalexa\\OneDrive - SoftServe, Inc\\Desktop\\cloned repo\\Homework-Stefania-Alexandru\\Homework StefaniaAlexandru\\Homework StefaniaAlexandru.csproj",
         "packagesPath": "C:\\Users\\stalexa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stalexa\\OneDrive - SoftServe, Inc\\Desktop\\Homework Stefania Alexandru\\Homework StefaniaAlexandru\\obj\\",
+        "outputPath": "C:\\Users\\stalexa\\OneDrive - SoftServe, Inc\\Desktop\\cloned repo\\Homework-Stefania-Alexandru\\Homework StefaniaAlexandru\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\stalexa\\AppData\\Roaming\\NuGet\\NuGet.Config",

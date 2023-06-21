@@ -13,3 +13,18 @@ C:\Users\stalexa\OneDrive - SoftServe, Inc\Desktop\Homework Stefania Alexandru\H
 C:\Users\stalexa\OneDrive - SoftServe, Inc\Desktop\Homework Stefania Alexandru\Homework StefaniaAlexandru\obj\Debug\net6.0\Homework StefaniaAlexandru.pdb
 C:\Users\stalexa\OneDrive - SoftServe, Inc\Desktop\Homework Stefania Alexandru\Homework StefaniaAlexandru\obj\Debug\net6.0\Homework StefaniaAlexandru.genruntimeconfig.cache
 C:\Users\stalexa\OneDrive - SoftServe, Inc\Desktop\Homework Stefania Alexandru\Homework StefaniaAlexandru\obj\Debug\net6.0\ref\Homework StefaniaAlexandru.dll
+C:\Users\stalexa\OneDrive - SoftServe, Inc\Desktop\cloned repo\Homework-Stefania-Alexandru\Homework StefaniaAlexandru\bin\Debug\net6.0\Homework StefaniaAlexandru.exe
+C:\Users\stalexa\OneDrive - SoftServe, Inc\Desktop\cloned repo\Homework-Stefania-Alexandru\Homework StefaniaAlexandru\bin\Debug\net6.0\Homework StefaniaAlexandru.deps.json
+C:\Users\stalexa\OneDrive - SoftServe, Inc\Desktop\cloned repo\Homework-Stefania-Alexandru\Homework StefaniaAlexandru\bin\Debug\net6.0\Homework StefaniaAlexandru.runtimeconfig.json
+C:\Users\stalexa\OneDrive - SoftServe, Inc\Desktop\cloned repo\Homework-Stefania-Alexandru\Homework StefaniaAlexandru\bin\Debug\net6.0\Homework StefaniaAlexandru.dll
+C:\Users\stalexa\OneDrive - SoftServe, Inc\Desktop\cloned repo\Homework-Stefania-Alexandru\Homework StefaniaAlexandru\bin\Debug\net6.0\Homework StefaniaAlexandru.pdb
+C:\Users\stalexa\OneDrive - SoftServe, Inc\Desktop\cloned repo\Homework-Stefania-Alexandru\Homework StefaniaAlexandru\obj\Debug\net6.0\Homework StefaniaAlexandru.csproj.AssemblyReference.cache
+C:\Users\stalexa\OneDrive - SoftServe, Inc\Desktop\cloned repo\Homework-Stefania-Alexandru\Homework StefaniaAlexandru\obj\Debug\net6.0\Homework StefaniaAlexandru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stalexa\OneDrive - SoftServe, Inc\Desktop\cloned repo\Homework-Stefania-Alexandru\Homework StefaniaAlexandru\obj\Debug\net6.0\Homework StefaniaAlexandru.AssemblyInfoInputs.cache
+C:\Users\stalexa\OneDrive - SoftServe, Inc\Desktop\cloned repo\Homework-Stefania-Alexandru\Homework StefaniaAlexandru\obj\Debug\net6.0\Homework StefaniaAlexandru.AssemblyInfo.cs
+C:\Users\stalexa\OneDrive - SoftServe, Inc\Desktop\cloned repo\Homework-Stefania-Alexandru\Homework StefaniaAlexandru\obj\Debug\net6.0\Homework StefaniaAlexandru.csproj.CoreCompileInputs.cache
+C:\Users\stalexa\OneDrive - SoftServe, Inc\Desktop\cloned repo\Homework-Stefania-Alexandru\Homework StefaniaAlexandru\obj\Debug\net6.0\Homework StefaniaAlexandru.dll
+C:\Users\stalexa\OneDrive - SoftServe, Inc\Desktop\cloned repo\Homework-Stefania-Alexandru\Homework StefaniaAlexandru\obj\Debug\net6.0\refint\Homework StefaniaAlexandru.dll
+C:\Users\stalexa\OneDrive - SoftServe, Inc\Desktop\cloned repo\Homework-Stefania-Alexandru\Homework StefaniaAlexandru\obj\Debug\net6.0\Homework StefaniaAlexandru.pdb
+C:\Users\stalexa\OneDrive - SoftServe, Inc\Desktop\cloned repo\Homework-Stefania-Alexandru\Homework StefaniaAlexandru\obj\Debug\net6.0\Homework StefaniaAlexandru.genruntimeconfig.cache
+C:\Users\stalexa\OneDrive - SoftServe, Inc\Desktop\cloned repo\Homework-Stefania-Alexandru\Homework StefaniaAlexandru\obj\Debug\net6.0\ref\Homework StefaniaAlexandru.dll
